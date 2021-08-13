@@ -16,7 +16,7 @@ This API is not meant to be used in production. Use it only as a reference.
 * Login ✔
 * Add .env file ✔ 
 * Add database configuration ✔
-* Add migrations
+* Add migrations WIP
 * Add some simple authentication/authorization (JWT) ✔
 * Unit testing ✔
 * Add Docker to run the application
